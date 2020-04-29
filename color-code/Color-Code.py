@@ -20,7 +20,7 @@ from ghidra.program.model.address import AddressSet
 from java.awt import Color
 
 # Debug options
-DEBUG_ENABLED = True
+DEBUG_ENABLED = False
 
 # Definicion de array de mnemonicos analizados y sus propiedades
 #               Mnemonico,  Activo, ShowLog,  Color,                 Contador
