@@ -1,11 +1,9 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 # ESP: Colorea algunas partes del codigo para una mejor identificacion visual.
 # ENG: Color some parts of the code for better visual identification.
 #
 # @author Gabi Marti. Twitter: @H0l3Bl4ck
-# @category Bl4ckH0l3.Colors
-# @date 29/04/2020
+# @category Colors
+# @date 29/04/2020  
 # @version 0.1
 #
 # Nota: Esta es una version muy temprana que requiere de bastantes optimizaciones en el codigo.
@@ -50,7 +48,7 @@ def setColor( direccion, mnemonico ):
     # busca mnemonico en el array
     for nem in aMnemonics: 
         if mnemonico == nem[0] and nem[1] == True:
-            muestra = nem[2]
+            muestralog = nem[2]
             vcolor = nem[3]
             nem[4] += 1
             
