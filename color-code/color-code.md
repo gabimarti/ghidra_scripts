@@ -26,3 +26,7 @@ En el listado del codigo veremos estos mnemonicos coloreados.
 El script tiene al principio un array multidimensional que se puede completar a gusto de cada usuario. Añadiendo o quitando mnemonicos, o desactivandolos, y definiendo el color que se desea.
 
 ![img_004](img/img-004.png "customización") 
+
+## Descarga
+
+[**Color-Code.py**](Color-Code.py)
