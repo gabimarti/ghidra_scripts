@@ -11,4 +11,6 @@ De momento solo tengo uno. **:)**
 
 #### Contacto
 
+Sientete libre de contactar conmigo y comentar cualquier aspecto de desarrollo de estos scripts.
+
 Twitter: [**@H0l3Bl4ck**](https://twitter.com/H0l3Bl4ck)
